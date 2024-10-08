@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Python_BSSE1",
+			"path": "../../python/Python_BSSE1"
+		},
+		{
+			"name": "studyjam",
+			"path": "../../../studyjam"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "studyjam"
+	}
+}
